@@ -388,7 +388,7 @@ header{
                 }
                 .sale{
                     background-color: var(--secondary-color);
-                    clip-path: polygon(0% 0%, 100% 0%, 80% 100%, 0% 100%);
+                    clip-path: polygon(4% 3%, 90% 9%, 100% 80%, 7% 100%)
                     margin: 41px 0px 30px 0px;
                     width: 424px;
                     height: 187px;
